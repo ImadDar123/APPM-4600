@@ -1,3 +1,4 @@
+#these are the imports for python to give us access numpy and plotting libraries
 import numpy as np
 import numpy.linalg as la
 import math
