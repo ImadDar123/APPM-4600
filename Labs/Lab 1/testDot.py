@@ -3,6 +3,7 @@ import numpy as np
 import numpy.linalg as la
 import math
 
+# this is the driver functiont that runs the code to be seen in terminal
 def driver():
     n = 3
     x = np.linspace(0,np.pi,n)
