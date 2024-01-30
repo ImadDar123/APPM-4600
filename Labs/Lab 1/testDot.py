@@ -27,6 +27,7 @@ def dotProduct(x,y,n):
     for j in range(n):
         dp = dp + x[j]*y[j]
     return dp
+# incomplete function that uses the dot product to multiply matrices
 def matrixMult(x,y,n):
     new_matrix = 0
     return new_matrix
