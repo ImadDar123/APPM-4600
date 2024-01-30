@@ -1,1 +1,1 @@
-This is a repository containing my first lab activity for the class APPM 4600. The directory structure contains the two main folders: Labs and Homeworks. 
+This is a repository containing my first lab activity for the class APPM 4600. The directory structure contains the two main folders: Labs and Homeworks. All of the labs that are done in recitation are included in the lab folder.
