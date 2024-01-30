@@ -6,6 +6,7 @@ import math
 # this is the driver functiont that runs the code to be seen in terminal
 def driver():
     n = 3
+    # linspace creates an array to give a set of numbers for us to work with
     x = np.linspace(0,np.pi,n)
     # this is a function handle. You can use it to define
     # functions instead of using a subroutine like you
