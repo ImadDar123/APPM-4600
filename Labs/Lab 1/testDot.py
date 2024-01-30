@@ -2,6 +2,7 @@
 import numpy as np
 import numpy.linalg as la
 import math
+
 def driver():
     n = 3
     x = np.linspace(0,np.pi,n)
@@ -20,6 +21,7 @@ def driver():
 def dotProduct(x,y,n):
 # Computes the dot product of the n x 1 vectors x and y
     dp = 0.
+    # for loop that adds up the computations of the vector elements
     for j in range(n):
         dp = dp + x[j]*y[j]
     return dp
